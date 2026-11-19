@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding a game
 - 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me emil.smets@gmail.com or discord: STEELOOF012
+- 📫 How to reach me steeloof.github@gmail.com or discord: STEELOOF012
 - ⚡ Fun fact: I like coding and games
 
 <!---
